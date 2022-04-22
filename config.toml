@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mainroad"
+title = "Black_JJW's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -7,12 +7,12 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "JUNG JIN WOO"
+  bio = ""
+  avatar = ""
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "JUNG JIN WOO's Blog for programming" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -20,9 +20,12 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post", "docs"]
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "Create, Read, Update, Delete" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -34,3 +37,20 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "python"
+    name = "Python"
+    url = "/categories/python/"
+    weight = 2
+  [[menu.main]]
+    identifier = "setting"
+    name = "Setting"
+    url = "/categories/setting/"
+    weight = 3
