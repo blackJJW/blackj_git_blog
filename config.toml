@@ -54,3 +54,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     name = "Setting"
     url = "/categories/setting/"
     weight = 3
+  [[menu.main]]
+    identifier = "ml"
+    name = "ML"
+    url = "/categories/ml/"
+    weight = 4
