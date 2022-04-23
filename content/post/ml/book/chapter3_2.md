@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch3-1 k-최근접 이웃 회귀"
+title: "[ML][Book][혼공 머신러닝+딥러닝]ch3-2 선형 회귀"
 description: ""
 date: "2022-04-22T16:27:45+09:00"
 thumbnail: ""
