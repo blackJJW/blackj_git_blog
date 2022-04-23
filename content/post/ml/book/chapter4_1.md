@@ -34,66 +34,13 @@ fish.head()
 
 
 
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Species</th>
-      <th>Weight</th>
-      <th>Length</th>
-      <th>Diagonal</th>
-      <th>Height</th>
-      <th>Width</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Bream</td>
-      <td>242.0</td>
-      <td>25.4</td>
-      <td>30.0</td>
-      <td>11.5200</td>
-      <td>4.0200</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Bream</td>
-      <td>290.0</td>
-      <td>26.3</td>
-      <td>31.2</td>
-      <td>12.4800</td>
-      <td>4.3056</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Bream</td>
-      <td>340.0</td>
-      <td>26.5</td>
-      <td>31.1</td>
-      <td>12.3778</td>
-      <td>4.6961</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Bream</td>
-      <td>363.0</td>
-      <td>29.0</td>
-      <td>33.5</td>
-      <td>12.7300</td>
-      <td>4.4555</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Bream</td>
-      <td>430.0</td>
-      <td>29.0</td>
-      <td>34.0</td>
-      <td>12.4440</td>
-      <td>5.1340</td>
-    </tr>
-  </tbody>
-</table>
+|   | Species | Weight | Length | Diagonal | Height  | Width  |
+|---|---------|--------|--------|----------|---------|--------|
+| 0 | Bream   | 242.0  | 25.4   | 30.0     | 11.5200 | 4.0200 |
+| 1 | Bream   | 290.0  | 26.3   | 31.2     | 12.4800 | 4.3056 |
+| 2 | Bream   | 340.0  | 26.5   | 31.1     | 12.3778 | 4.6961 |
+| 3 | Bream   | 363.0  | 29.0   | 33.5     | 12.7300 | 4.4555 |
+| 4 | Bream   | 430.0  | 29.0   | 34.0     | 12.4440 | 5.1340 |
 
 
 
