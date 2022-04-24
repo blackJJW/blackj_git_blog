@@ -25,7 +25,7 @@ tags:
     - 초기 설정 :  C:\Program Files\Java\jre1.8.0_301\
     - 이 경로를 변경 → 해당 드라이브에 jre폴더 생성 → C:\jre 로 설정
 
-![Untitled](/setting_images/spark_installation_windows_10/Untitled_.png)
+![Untitled](/setting_images/spark_installation_windows_10/Untitled.png)
 
 (본인은 C드라이브 용량의 문제로 D드라이브에 저장을 했다.)
 
