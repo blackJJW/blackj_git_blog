@@ -358,7 +358,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_3/output_46_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_3/output_46_0.png)
 
 
 - blue : 훈련 세트 그래프
@@ -434,7 +434,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_3/output_53_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_3/output_53_0.png)
 
 
 - blue : 훈련 세트 그래프

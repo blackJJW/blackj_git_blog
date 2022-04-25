@@ -209,7 +209,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_29_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_29_0.png)
 
 
 - k-최근접 이웃은 주변의 샘플 중에서 다수인 클래스를 예측으로 사용
@@ -233,7 +233,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_32_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_32_0.png)
 
 
 
@@ -281,7 +281,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_37_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_37_0.png)
 
 
 - 두 특성의 값이 놓인 범위가 매우 다름. -> 스케일(scale)이 다름
@@ -337,7 +337,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_48_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_48_0.png)
 
 
 
@@ -351,7 +351,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_49_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_49_0.png)
 
 
 
@@ -406,7 +406,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_2/output_55_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_2/output_55_0.png)
 
 
 ## 마무리

@@ -61,7 +61,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_1/output_6_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_1/output_6_0.png)
 
 
 

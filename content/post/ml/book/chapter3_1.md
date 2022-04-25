@@ -59,7 +59,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_1/output_7_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_1/output_7_0.png)
 
 
 

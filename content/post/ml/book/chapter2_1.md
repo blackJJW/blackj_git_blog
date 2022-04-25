@@ -285,7 +285,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter2_1/output_35_0.png)
+![png](/images/self_study_ml_dl_images/chapter2_1/output_35_0.png)
 
 
 ## 두 번째 머신러닝 프로그램

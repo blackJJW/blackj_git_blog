@@ -136,7 +136,7 @@ draw_fruits(fruits[km.labels_==0])
 ```
 
 
-![png](/images/chapter6_2/output_14_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_14_0.png)
 
 
 
@@ -145,7 +145,7 @@ draw_fruits(fruits[km.labels_==1])
 ```
 
 
-![png](/images/chapter6_2/output_15_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_15_0.png)
 
 
 
@@ -154,7 +154,7 @@ draw_fruits(fruits[km.labels_==2])
 ```
 
 
-![png](/images/chapter6_2/output_16_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_16_0.png)
 
 
 ## 클러스터 중심
@@ -167,7 +167,7 @@ draw_fruits(km.cluster_centers_.reshape(-1, 100, 100), ratio=3)
 ```
 
 
-![png](/images/chapter6_2/output_19_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_19_0.png)
 
 
 - transform() : 훈련 데이터 샘플에서 클러스터 중심까지 거리로 변환
@@ -200,7 +200,7 @@ draw_fruits(fruits[100:101])
 ```
 
 
-![png](/images/chapter6_2/output_25_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_25_0.png)
 
 
 - k-평균 알고리즘은 반복적으로 클로스터 중심을 옮기변서 최적의 클러스터를 찾음.
@@ -236,7 +236,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_2/output_30_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_2/output_30_0.png)
 
 
 - 클러스터 개수를 증가 시키면서 이너셔를 그래프로 그리면서 감소라는 속도가 꺽이는 지점

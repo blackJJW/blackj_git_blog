@@ -98,7 +98,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_2/output_8_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_2/output_8_0.png)
 
 
 
@@ -136,7 +136,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_2/output_11_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_2/output_11_0.png)
 
 
 - 농어가 아무리 커도 무게가 더 늘어나지 않는다. 
@@ -195,7 +195,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_2/output_18_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_2/output_18_0.png)
 
 
 
@@ -271,7 +271,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter3_2/output_27_0.png)
+![png](/images/self_study_ml_dl_images/chapter3_2/output_27_0.png)
 
 
 

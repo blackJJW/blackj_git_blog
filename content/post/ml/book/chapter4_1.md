@@ -225,7 +225,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter4_1/output_33_0.png)
+![png](/images/self_study_ml_dl_images/chapter4_1/output_33_0.png)
 
 
 - 로지스틱 회귀 모델 LogisticRegression 클래스

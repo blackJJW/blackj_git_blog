@@ -149,7 +149,7 @@ plt.show()
 ```
 
 
-![png](../../../../static/images/chapter4_2/output_21_0.png)
+![png](/images/self_study_ml_dl_images/chapter4_2/output_21_0.png)
 
 
 

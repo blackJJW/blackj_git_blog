@@ -119,7 +119,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_12_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_12_0.png)
 
 
 
@@ -132,7 +132,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_13_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_13_0.png)
 
 
 - 에포크마다 손실이 감소하고 정확도가 상승.
@@ -149,7 +149,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_15_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_15_0.png)
 
 
 ## 검증 손실
@@ -189,7 +189,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_21_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_21_0.png)
 
 
 - 훈련 손실은 꾸준히 감소 -> 전형적인 과대적합 모델.
@@ -215,7 +215,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_24_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_24_0.png)
 
 
 - 과대적합이 줄어들어듬.
@@ -279,7 +279,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_33_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_33_0.png)
 
 
 - 과대 적합이 줄어들어듬.
@@ -481,7 +481,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter7_3/output_67_0.png)
+![png](/images/self_study_ml_dl_images/chapter7_3/output_67_0.png)
 
 
 - 조기 종료로 얻은 모델을 사용해 검증 세트에 대한 성능 확인.

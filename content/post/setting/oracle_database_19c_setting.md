@@ -90,3 +90,8 @@ tags:
     - `select user from dual;`
 
 ![Untitled](/setting_images/oracle_database_19c_setting/Untitled_13.png)
+
+- user 출력
+    - 'show user;'
+
+![Untitled](/setting_images/oracle_database_19c_setting/Untitled_14.PNG)

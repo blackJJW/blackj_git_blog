@@ -107,7 +107,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_15_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_15_0.png)
 
 
 - 0에 가까울수록 검게 나타나고 높은 값은 밝게 표시됨.
@@ -129,7 +129,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_19_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_19_0.png)
 
 
 - 이 그림에서 밝은 부분이 0에 가까고 짙은 부분이 255에 가까운 값
@@ -143,7 +143,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_21_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_21_0.png)
 
 
 ## 픽셀 값 분석
@@ -200,7 +200,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_28_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_28_0.png)
 
 
 - 전체 샘플에 대해 픽셀의 평균을 계산
@@ -216,7 +216,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_30_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_30_0.png)
 
 
 - 픽셀 평균값은 100X100 크기로 바꿔서 이미지처럼 출력하여 위 그래프와 비교
@@ -235,7 +235,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_32_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_32_0.png)
 
 
 ## 평균값과 가까운 사진 고르기
@@ -268,7 +268,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_1/output_37_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_1/output_37_0.png)
 
 
 - 군집(clustering) : 비슷한 샘플까리 그룹으로 모으는 작업

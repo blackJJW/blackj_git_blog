@@ -128,7 +128,7 @@ draw_fruits(pca.components_.reshape(-1, 100, 100))
 ```
 
 
-![png](/images/chapter6_3/output_17_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_17_0.png)
 
 
 
@@ -172,7 +172,7 @@ for start in [0, 100, 200]:
 ```
 
 
-![png](/images/chapter6_3/output_24_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_24_0.png)
 
 
     
@@ -180,7 +180,7 @@ for start in [0, 100, 200]:
     
 
 
-![png](/images/chapter6_3/output_24_2.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_24_2.png)
 
 
     
@@ -188,7 +188,7 @@ for start in [0, 100, 200]:
     
 
 
-![png](/images/chapter6_3/output_24_4.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_24_4.png)
 
 
     
@@ -217,7 +217,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_3/output_28_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_28_0.png)
 
 
 - 처음 10개의 주성분이 대부분의 분산을 표현하고 있음.
@@ -365,7 +365,7 @@ for label in range(0, 3):
 ```
 
 
-![png](/images/chapter6_3/output_48_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_48_0.png)
 
 
     
@@ -373,7 +373,7 @@ for label in range(0, 3):
     
 
 
-![png](/images/chapter6_3/output_48_2.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_48_2.png)
 
 
     
@@ -381,7 +381,7 @@ for label in range(0, 3):
     
 
 
-![png](/images/chapter6_3/output_48_4.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_48_4.png)
 
 
     
@@ -403,7 +403,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter6_3/output_51_0.png)
+![png](/images/self_study_ml_dl_images/chapter6_3/output_51_0.png)
 
 
 ## 마무리

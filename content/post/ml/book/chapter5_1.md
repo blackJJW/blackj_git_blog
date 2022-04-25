@@ -199,7 +199,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter5_1/output_27_0.png)
+![png](/images/self_study_ml_dl_images/chapter5_1/output_27_0.png)
 
 
 - 맨 위의 노드(node) : 루트 노드(root node)
@@ -223,7 +223,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter5_1/output_31_0.png)
+![png](/images/self_study_ml_dl_images/chapter5_1/output_31_0.png)
 
 
 - filled = True 로 지정하면 클래스마다 색을 지정하고, 어떤 클래스의 비율이 높아지면 점점 진한 색으로 표시
@@ -295,7 +295,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter5_1/output_40_0.png)
+![png](/images/self_study_ml_dl_images/chapter5_1/output_40_0.png)
 
 
 
@@ -318,7 +318,7 @@ plt.show()
 ```
 
 
-![png](/images/chapter5_1/output_42_0.png)
+![png](/images/self_study_ml_dl_images/chapter5_1/output_42_0.png)
 
 
 - 결정 트리는 어떤 특성이 가장 중요한지 나타내는 특성 중요도를 계산
