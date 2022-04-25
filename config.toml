@@ -64,3 +64,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     name = "DL"
     url = "/categories/dl/"
     weight = 5
+  [[menu.main]]
+    identifier = "kaggle"
+    name = "Kaggle"
+    url = "/categories/kaggle/"
+    weight = 6
