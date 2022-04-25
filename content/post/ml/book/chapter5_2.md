@@ -10,7 +10,6 @@ tags:
   - "Book"
 
 ---
-# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
 
 # 05-2 교차 검증과 그리드 서치
 
@@ -454,3 +453,6 @@ print(dt.score(test_input, test_target))
   - 첫 번째 매개변수로 그리드 서치를 수행할 모델 객체를 전달
   - 두 번째 매개변수에는 탐색할 모델의 매개변수와 확률 분포 객체를 전달
   - scoring, cv, n_jobs, return_train_score 매개변수는 cross_validate() 함수와 동일
+
+
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어

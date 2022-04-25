@@ -10,7 +10,6 @@ tags:
   - "Book"
 
 ---
-# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
 
 # 06-3 주성분 분석
 
@@ -433,3 +432,5 @@ plt.show()
   - explained_variance_ : 설명된 분산이 저장
     - explained_variance_ratio_ : 설명된 분산의 비율이 저장
   - inverse_transform() : transform() 메서드로 차원을 축소시킨 데이터를 다시 원본 차원으로 복원.
+
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어

@@ -10,7 +10,6 @@ tags:
   - "Book"
 
 ---
-# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
 
 # 03-3 특성 공학과 규제
 
@@ -505,3 +504,5 @@ print(np.sum(lasso.coef_ == 0))
   - Lasso : 최적의 모델을 찾기 위해 좌표축을 따라 최적화를 수행하는 좌표 하강법(coordinate descent)을 사용
     - alpha, random_state : Ridge와 동일
     - max_iter : 알고리즘의 수행 반복 횟수 지정. 기본값 = 1000
+
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어

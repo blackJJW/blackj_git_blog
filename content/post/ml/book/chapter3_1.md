@@ -10,7 +10,6 @@ tags:
   - "Book"
 
 ---
-# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
 
 # 03-1 k-최근접 이웃 회귀
 
@@ -227,3 +226,5 @@ print(knr.score(test_input, test_target))
     - 넘파이는 종종 배열의 메서드와 동일한 함수를 별도로 제공
       - 함수의 첫 번째 매개변수는 바꾸조자 하는 배열
         - test_array.reshape(2, 2) -> np.reshape(test_array, (2, 2))
+
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어

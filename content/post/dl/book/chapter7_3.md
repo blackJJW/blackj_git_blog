@@ -550,3 +550,5 @@ model.evaluate(val_scaled, val_target)
 - argmax : 배열에서 축을 따라 최댓값의 인덱스를 반환.
   - axis : 어떤 축을 따라 최댓값을 찾을지 지정.
     - 기본값 = None : 전체 배열에서 최댓값을 찾음.
+
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
