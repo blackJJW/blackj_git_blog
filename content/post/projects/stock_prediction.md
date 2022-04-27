@@ -1,7 +1,7 @@
 ---
-title: "감성분석을 통한 주가 예측"
+title: "[Project]감성분석을 통한 주가 예측"
 date: 2022-04-26T17:38:48+09:00
-draft: true
+description: ""
 categories:
   - "Projects"
 tags:
