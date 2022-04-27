@@ -70,12 +70,17 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     url = "/categories/kaggle/"
     weight = 6
   [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/categories/projects/"
+    weight = 7
+  [[menu.main]]
     identifier = "Statistics"
     name = "statistics"
     url = "/categories/statistics/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     identifier = "SQL"
     name = "sql"
     url = "/categories/sql/"
-    weight = 8
+    weight = 9

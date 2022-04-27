@@ -10,4 +10,4 @@ tags:
   - "DL"
 ---
 
-{{< embed-pdf url="./pdf_files/news_stock_prediction.pdf" >}}
+{{< embed-pdf url="/pdf_files/news_stock_prediction.pdf" >}}
