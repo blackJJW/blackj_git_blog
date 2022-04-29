@@ -9,6 +9,11 @@ tags:
   - "ML"
   - "DL"
 ---
+#### (주)에프앤이노에듀   
+##### 현장 전문가 육성을 위한 인공지능(AI) 창의 융합형 인재 양성과정   
+###### final 프로젝트
+<!--more-->
+# ppt 
+{{< embed-pdf url="./pdf_files/news_stock_prediction.pdf" >}}
 
-
-
+# video
