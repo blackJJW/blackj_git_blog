@@ -1,6 +1,6 @@
 ---
 title: "[ML][Book][혼공 머신러닝+딥러닝]ch1-3 K-최근접 이웃 분류"
-description: ""
+description: "혼공 머신러닝+딥러닝 chapter 1-3"
 date: "2022-04-22T15:24:45+09:00"
 thumbnail: ""
 categories:
