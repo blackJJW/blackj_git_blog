@@ -11,5 +11,9 @@ tags:
 ---
 <!--more-->
 # ppt 
-{{< embed-pdf url="./pdf_files/news_stock_prediction.pdf" >}}
+{{< embed-pdf url="/pdf_files/news_stock_prediction.pdf" >}}
 
+
+<video width=100% controls autoplay>
+    <source src="/videos/projects/news_stock_prediction/a-final_video.mp4" type="video/mp4">
+</video>
