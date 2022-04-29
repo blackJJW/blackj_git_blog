@@ -9,7 +9,7 @@ tags:
   - "Python"
 
 ---
-
+<!--more-->
 
 ## Chapter 1 - 통계학 기본
 

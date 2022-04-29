@@ -10,6 +10,7 @@ tags:
   - "PL/SQL"
 
 ---
+<!--more-->
 # SQL, PL/SQL
 
 ## 1. SQL(Structured Query Language)

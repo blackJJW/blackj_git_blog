@@ -10,6 +10,8 @@ tags:
   - "ML"
 
 ---
+### Prediction and Score
+<!--more-->
 ## < Score Improvement History >
 |#|> std * x|k-fold|score|rank|
 |:-:|:-:|:-:|:-:|:-:|

@@ -9,6 +9,7 @@ tags:
   - "Spark"
 
 ---
+<!--more-->
 # Spark Installation (Windows 10)
 
 ## 자바 설치

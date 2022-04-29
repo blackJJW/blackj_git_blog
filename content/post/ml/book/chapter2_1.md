@@ -10,7 +10,7 @@ tags:
   - "Book"
 
 ---
-
+<!--more-->
 # 02-1 훈련 세트와 테스트 세트
 
 ## 지도 학습(supervised learning)과 비지도 학습(unsupervised learning)
