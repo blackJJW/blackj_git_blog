@@ -1,5 +1,5 @@
 ---
-title: "[Project]뉴스 감성분석을 통한 주가 예측"
+title: "[Project][ML/DL]뉴스 감성분석을 통한 주가 예측"
 date: 2022-04-26T17:38:48+09:00
 description: ""
 categories:
@@ -9,8 +9,9 @@ tags:
   - "ML"
   - "DL"
 ---
-<!--more-->
+
 ![png](/pdf_files/news_stock_prediction/news_stock_prediction1024_1.png)
+<!--more-->
 
 ![png](/pdf_files/news_stock_prediction/news_stock_prediction1024_2.png)
 
