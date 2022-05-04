@@ -9,9 +9,8 @@ tags:
   - "ML"
   - "DL"
 ---
-
-![png](/pdf_files/news_stock_prediction/news_stock_prediction1024_1.png)
 <!--more-->
+![png](/pdf_files/news_stock_prediction/news_stock_prediction1024_1.png)
 
 ![png](/pdf_files/news_stock_prediction/news_stock_prediction1024_2.png)
 
