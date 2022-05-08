@@ -399,4 +399,4 @@ model.evaluate(test_scaled,test_target)
   - width : 막대의 두께를 지정
     - 기본값 : 0.8
 
-> 
+# Book : '혼자 공부하는 머신러닝 + 딥러닝', 박해선 지음, 한빛미디어
