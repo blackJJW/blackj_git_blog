@@ -16,21 +16,21 @@ tags:
 
 1. 구글 크롬 주소창에 about:blank 입력
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled.png)
 
 1. 단축키 [ **Ctrl + Shift + i ]**를 눌러 개발자 환경을 띄움
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%201.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled1.png)
 
 1. about:blank 에서 **[Console] 탭**을 클릭하여 **구글 크롬 개발자 도구**에 들어간다.
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%202.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled2.png)
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%203.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled3.png)
 
 - 이곳에서 어떤 값을 입력하면 바로 그 결과를 출력한다.
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%204.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled4.png)
 
 ### 경고창에 출력
 
@@ -70,11 +70,11 @@ tags:
 
 - 저장된 HTML 페이지를 실행
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%205.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled5.png)
 
 - 페이지를 실행하여 경고창이 열린 것을 확인
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%206.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled6.png)
 
 ### 콘솔에 출력
 
@@ -113,16 +113,16 @@ tags:
 
 - 실행하면 빈 페이지가 나타난다.
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%207.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled7.png)
 
 - 단축키 **[ Ctrl + Shift + i ]** 또는 **[ F12 ]키** 를 눌러 개발자 도구를 띄운다.
 - 그 다음 **[ Console ]** 탭을 클릭한다.
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%208.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled8.png)
 
 - 입력한 결과가 출력된 것을 확인
 
-![Untitled](/images/lang_javascript/JavaScript _output/Untitled%209.png)
+![Untitled](/images/lang_javascript/JavaScript_output/Untitled9.png)
 
 ## References
 
