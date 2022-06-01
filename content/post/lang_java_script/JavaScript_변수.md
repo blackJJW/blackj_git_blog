@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] 상수"
+title: "[JavaScript] 변수"
 description: ""
 date: "2022-05-07T21:30:45+09:00"
 thumbnail: ""
