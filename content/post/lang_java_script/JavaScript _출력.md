@@ -18,11 +18,11 @@ tags:
 
 ![Untitled](/images/lang_javascript/JavaScript_output/Untitled.png)
 
-1. 단축키 **[ Ctrl + Shift + i ]** 를 눌러 개발자 환경을 띄움
+2. 단축키 **[ Ctrl + Shift + i ]** 를 눌러 개발자 환경을 띄움
 
 ![Untitled](/images/lang_javascript/JavaScript_output/Untitled1.png)
 
-1. about:blank 에서 **[Console] 탭**을 클릭하여 **구글 크롬 개발자 도구**에 들어간다.
+3. about:blank 에서 **[Console] 탭**을 클릭하여 **구글 크롬 개발자 도구**에 들어간다.
 
 ![Untitled](/images/lang_javascript/JavaScript_output/Untitled2.png)
 
