@@ -1,3 +1,15 @@
+---
+title: "[JavaScript] JavaScript - 숫자 자료형"
+description: ""
+date: "2022-05-07T19:30:45+09:00"
+thumbnail: ""
+categories:
+  - "JavaScript"
+tags:
+ 
+
+---
+<!--more-->
 # JavaScript - 숫자 자료형
 
 - 자바스크립트는 **소수점이 있는 숫자**와 **없는 숫자**를 **모두 같은 자료형**으로 인식
