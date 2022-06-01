@@ -84,3 +84,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     name = "sql"
     url = "/categories/sql/"
     weight = 9
+  [[menu.main]]
+    identifier = "javascript"
+    name = "JavaScript"
+    url = "/categories/javascript/"
+    weight = 10
