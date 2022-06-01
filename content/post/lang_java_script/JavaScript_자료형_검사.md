@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] JavaScript - 자료형 검사"
+title: "[JavaScript] 자료형 검사"
 description: ""
 date: "2022-05-07T20:30:45+09:00"
 thumbnail: ""

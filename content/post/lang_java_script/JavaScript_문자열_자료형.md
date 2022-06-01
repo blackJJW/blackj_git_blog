@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] JavaScript - 문자열 자료형"
+title: "[JavaScript] 문자열 자료형"
 description: ""
 date: "2022-05-07T18:30:45+09:00"
 thumbnail: ""

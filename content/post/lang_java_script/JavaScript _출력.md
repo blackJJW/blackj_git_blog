@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] JavaScript - 출력"
+title: "[JavaScript] 출력"
 description: ""
 date: "2022-05-07T18:00:45+09:00"
 thumbnail: ""

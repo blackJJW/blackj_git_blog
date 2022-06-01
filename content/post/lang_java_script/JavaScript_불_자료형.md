@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] JavaScript - 불 자료형"
+title: "[JavaScript] 불 자료형"
 description: ""
 date: "2022-05-07T20:00:45+09:00"
 thumbnail: ""

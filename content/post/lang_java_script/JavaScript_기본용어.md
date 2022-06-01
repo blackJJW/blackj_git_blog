@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] JavaScript - 기본용어"
+title: "[JavaScript] 기본용어"
 description: ""
 date: "2022-05-07T17:30:45+09:00"
 thumbnail: ""
