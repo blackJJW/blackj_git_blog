@@ -1,7 +1,7 @@
 ---
 title: "[JavaScript] 상수"
 description: ""
-date: "2022-05-07T21:10:45+09:00"
+date: "2022-05-07T21:20:45+09:00"
 thumbnail: ""
 categories:
   - "JavaScript"
