@@ -22,14 +22,14 @@ tags:
 
 - 두 대상을 비교할 수 있는 **비교 연산자**를 사용해 불을 만들 수 있음
 
-| 연산자 | 설명 |
-| --- | --- |
-| === | 양쪽이 같다. |
-| !==  | 양쪽이 다르다. |
-| > | 왼쪽이 더 크다. |
-| < | 오른쪽이 더 크다. |
-| >= | 왼쪽이 더 크거나 같다. |
-| <= | 오른쪽이 더 크거나 같다. |
+| 연산자 |       설명        |
+|:---:|:---------------|
+| === |     양쪽이 같다.     |
+| !== |    양쪽이 다르다.     |
+| \>  |    왼쪽이 더 크다.    |
+|  <  |   오른쪽이 더 크다.    |
+| \>= |  왼쪽이 더 크거나 같다.  |
+| <=  | 오른쪽이 더 크거나 같다.  |
 
 ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%201.png)
 
@@ -80,31 +80,31 @@ tags:
 
 ### 불 논리합 / 논리곱 연산자
 
-| 연산자 | 설명 |
-| --- | --- |
-| && | 논리곱 연산자 |
-| || | 논리합 연산자 |
+| 연산자 |   설명 |
+|:---:|:---:|
+| &&  | 논리곱 연산자 |
+| ll  | 논리합 연산자 |
 
 - **&& 연산자**
     - 양쪽 변의 값이 **모두 true**일 때 **true**를 출력
     - 이외에는 **모두 false**
     
-    | 좌 | 우 | 결과 |
-    | --- | --- | --- |
-    | true | true | true |
-    | true | false | false |
-    | false | true | false |
-    | false | false | false |
+    | 좌 |   우    |   결과   |
+    |:------:|:------:|:---:|
+    | true |  true  |  true  |
+    | true | false  | false  |
+    | false |  true  | false  |
+    | false | false  | false  |
 
 - **|| 연산자**
     - 양쪽 변의 값 중 **하나만 true**여도 **true**를 출력
     
-    | 좌 | 우 | 결과 |
-    | --- | --- | --- |
-    | true | true | true |
-    | true | false | true |
-    | false | true | true |
-    | false | false | false |
+    | 좌 |   우    |   결과   |
+    |:------:|:------:| :---: |
+    | true |  true  |  true  |
+    | true | false  |  true  |
+    | false |  true  |  true  |
+    | false | false  | false  |
 
 ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%204.png)
 
