@@ -18,7 +18,7 @@ tags:
 
 ![Untitled](/images/lang_javascript/JavaScript_output/Untitled.png)
 
-1. 단축키 [ **Ctrl + Shift + i ]**를 눌러 개발자 환경을 띄움
+1. 단축키 **[ Ctrl + Shift + i ]** 를 눌러 개발자 환경을 띄움
 
 ![Untitled](/images/lang_javascript/JavaScript_output/Untitled1.png)
 
