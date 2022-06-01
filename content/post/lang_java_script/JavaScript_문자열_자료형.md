@@ -21,8 +21,8 @@ tags:
 
 ### 문자열 만들기
 
-1. **큰따옴표(” ”)**를 사용
-2. **작은따옴표(’ ’)**를 사용
+1. **큰따옴표**(**” ”**)를 사용
+2. **작은따옴표**(**’ ’**)를 사용
 
 ![Untitled](/images/lang_javascript/JavaScript_문자열_자료형/Untitled.png)
 
@@ -32,7 +32,7 @@ tags:
 
 ![Untitled](/images/lang_javascript/JavaScript_문자열_자료형/Untitled%201.png)
 
-- 따옴표를 문자 그대로 사용하고 싶다면 따옴표 앞에 특수한 기능을 하는 **이스케이프 문자(\)**를 사용하면 된다.
+- 따옴표를 문자 그대로 사용하고 싶다면 따옴표 앞에 특수한 기능을 하는 **이스케이프 문자**(**\\**)를 사용하면 된다.
 
 ![Untitled](/images/lang_javascript/JavaScript_문자열_자료형/Untitled%202.png)
 
