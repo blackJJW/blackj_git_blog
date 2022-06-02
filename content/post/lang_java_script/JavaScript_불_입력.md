@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] 문자열 입력"
+title: "[JavaScript] 불 입력"
 description: ""
 date: "2022-05-08T20:00:45+09:00"
 thumbnail: ""
