@@ -138,7 +138,7 @@ tags:
 ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%207.png)
 
 - 사용 예 - 4
-    - **전위**(**prefix**) : ****해당 문장을 실행하기 전 연산을 먼저 실행
+    - **전위**(**prefix**) : 해당 문장을 실행하기 전 연산을 먼저 실행
 
 ```jsx
 <script>
