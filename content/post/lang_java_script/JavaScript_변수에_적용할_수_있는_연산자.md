@@ -105,7 +105,7 @@ tags:
 
 ```jsx
 <script>
-	let a = 10 // 변수를 선언
+  let a = 10 // 변수를 선언
 
   alert(a++) // 출력
   alert(a++)
@@ -123,7 +123,7 @@ tags:
 
 ```jsx
 <script>
-	let a = 10 // 변수를 선언
+  let a = 10 // 변수를 선언
 
   alert(a); a += 1 
   alert(a); a += 1
@@ -142,7 +142,7 @@ tags:
 
 ```jsx
 <script>
-	let a = 10 // 변수를 선언
+  let a = 10 // 변수를 선언
 
   alert(++a) // 출력
   alert(++a)
