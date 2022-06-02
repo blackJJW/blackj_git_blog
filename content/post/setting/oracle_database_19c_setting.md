@@ -10,7 +10,6 @@ tags:
 
 ---
 <!--more-->
-# Oracle Database 19c Installation and Setting
 
 ## 1. Oracle 19c 다운로드
 

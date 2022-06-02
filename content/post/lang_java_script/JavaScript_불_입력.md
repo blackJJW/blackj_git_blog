@@ -10,7 +10,6 @@ tags:
 
 ---
 <!--more-->
-# JavaScript - 불 입력
 
 - 문자열 외에 불 자료형도 입력 가능
 - **confirm() 함수** 사용

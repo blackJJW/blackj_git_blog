@@ -11,8 +11,6 @@ tags:
 
 ---
 <!--more-->
-# 02-1 훈련 세트와 테스트 세트
-
 ## 지도 학습(supervised learning)과 비지도 학습(unsupervised learning)
 - 지도 학습 알고리즘은 훈련하기 위한 데이터와 정답이 필요
 - 지도 학습에서는 데이터와 정답을 입력(input)과 타깃(target), 이 둘을 합쳐 훈련 데이터(training data)

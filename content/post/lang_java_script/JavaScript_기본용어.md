@@ -10,7 +10,6 @@ tags:
 
 ---
 <!--more-->
-# JavaScript - 기본용어
 
 ## 표현식과 문장
 

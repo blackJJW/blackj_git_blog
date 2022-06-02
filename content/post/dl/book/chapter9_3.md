@@ -11,7 +11,6 @@ tags:
 
 ---
 <!--more-->
-# 09-3 LSTM과 GRU 셀
 
 ## LSTM 구조
 

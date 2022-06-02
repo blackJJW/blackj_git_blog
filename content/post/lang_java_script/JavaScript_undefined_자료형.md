@@ -10,7 +10,6 @@ tags:
 
 ---
 <!--more-->
-# JavaScript - undefined 자료형
 
 ### 상수와 변수로 선언하지 않은 식별자
 
