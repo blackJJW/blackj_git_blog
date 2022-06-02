@@ -90,9 +90,9 @@ tags:
 
 ```jsx
 <script>
-	let a = 10 // 변수를 선언
+  let a = 10 // 변수를 선언
 
-	a++ // 증감자 사용
+  a++ // 증감자 사용
 
   alert(a) // 출력
 </script>
@@ -108,8 +108,8 @@ tags:
 	let a = 10 // 변수를 선언
 
   alert(a++) // 출력
-	alert(a++)
-	alert(a++)
+  alert(a++)
+  alert(a++)
 </script>
 ```
 
@@ -126,8 +126,8 @@ tags:
 	let a = 10 // 변수를 선언
 
   alert(a); a += 1 
-	alert(a); a += 1
-	alert(a); a += 1
+  alert(a); a += 1
+  alert(a); a += 1
 </script>
 ```
 
@@ -145,8 +145,8 @@ tags:
 	let a = 10 // 변수를 선언
 
   alert(++a) // 출력
-	alert(++a)
-	alert(++a)
+  alert(++a)
+  alert(++a)
 </script>
 ```
 
