@@ -1,5 +1,5 @@
 ---
-title: "[Project][ChatbotL]공공 주택 정보 알림 챗봇 - “홈마트"
+title: "[Project][Chatbot]공공 주택 정보 알림 챗봇 - “홈마트"
 date: 2022-06-04T09:38:48+09:00
 description: ""
 categories:
@@ -74,13 +74,13 @@ tags:
 
 - 전체 수행 기간 : 2022.05.20 ~ 2022.06.03
 
-![Untitled](img/Untitled.png)
+![Untitled](/images/projects/부동산2팀_홈마트/Untitled.png)
 
 ## 기능 흐름도
 
 ---
 
-![Untitled](img/Untitled%201.png)
+![Untitled](/images/projects/부동산2팀_홈마트/Untitled%201.png)
 
 
 ## 한계점 및 시행착오
