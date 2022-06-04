@@ -114,6 +114,6 @@ tags:
 ---
 [GitHub 링크](https://github.com/blackJJW/chatbot_kakao_groom)
 
-[부동산2팀 홈마트 결과 보고서](pdf/부동산2팀_홈마트_결과.pdf)
+[부동산2팀 홈마트 결과 보고서](https://github.com/blackJJW/chatbot_kakao_groom/blob/main/pdf/%EB%B6%80%EB%8F%99%EC%82%B02%ED%8C%80_%ED%99%88%EB%A7%88%ED%8A%B8_%EA%B2%B0%EA%B3%BC.pdf)
 
 [시연영상 Google Drive](https://drive.google.com/file/d/1gKNMv2iAT_wnokF22wmM6YORYsIRBpHn/view?usp=sharing)
