@@ -89,8 +89,3 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     name = "JavaScript"
     url = "/categories/javascript/"
     weight = 10
-  [[menu.main]]
-    identifier = "aboutme"
-    name = "About Me"
-    url = "/about/about.md"
-    weight = 11
