@@ -1,12 +1,11 @@
 ---
-title: About
+title: ABOUT ME
 date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-# About Me
 
 ## 1. 기본 정보
 
