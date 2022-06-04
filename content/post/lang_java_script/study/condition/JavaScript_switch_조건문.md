@@ -65,19 +65,19 @@ tags:
     
     ```jsx
     <script>
-    	const date = new Date() // 현재 날짜와 시간을 갖는 객체 생성
+      const date = new Date() // 현재 날짜와 시간을 갖는 객체 생성
       const hour = date.getHours() // 현재시간을 0 ~ 23 사이의 값으로 출력하는 메소드
     	
-    	switch (true) {
-    	  case hour < 11: 
-    		  alert('아침 식사 시간')
-    			break
-    	  case hour < 15:
-    		  alert('점심 식사 시간')
-    			break
-    		default:
-    		  alert('저녁 식사 시간')
-    			break
+      switch (true) {
+        case hour < 11: 
+          alert('아침 식사 시간')
+    	  break
+        case hour < 15:
+          alert('점심 식사 시간')
+          break 
+        default:
+          alert('저녁 식사 시간')
+    	  break 
     	}
     </script>
     ```
