@@ -1,4 +1,15 @@
-# JavaScript - 문자열 자료형으로 변환
+---
+title: "[JavaScript] 문자열 자료형으로 변환"
+description: ""
+date: "2022-05-09T16:30:45+09:00"
+thumbnail: ""
+categories:
+  - "JavaScript"
+tags:
+ 
+
+---
+<!--more-->
 
 - 다른 자료형을 문자열 자료형으로 변환할 때는 **String() 함수**를 사용
     
