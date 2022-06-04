@@ -1,5 +1,5 @@
 ---
-title: About Jung Jin Woo
+title: About
 date: 2022-06-04T14:00:00.000Z
 authorbox: false
 sidebar: false
