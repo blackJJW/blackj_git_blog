@@ -11,19 +11,19 @@ tags:
 ---
 <!--more-->
 
-### 상수와 변수로 선언하지 않은 식별자
+### <u>상수와 변수로 선언하지 않은 식별자</u>
 
 - 상수와 변수로 선언하지 않은 식별자의 자료형을 확인하면 **undefined**가 나옴
     - 선언하지 않고 사용하여 **undefined 자료형**
 
-![Untitled](/images/lang_javascript/JavaScript_undefined_자료형/Untitled.png)
+  ![Untitled](/images/lang_javascript/JavaScript_undefined_자료형/Untitled.png)
 
-### 값이 없는 변수
+### <u>값이 없는 변수</u>
 
 - 변수를 선언하면서 **값을 지정하지 않는 경우**, 해당 식별자는 **undefined 자료형**이 됨
     - 상수는 선언할 때 값을 반드시 지정해야 하므로 **값이 없는 상수는 존재하지 않음**
 
-![Untitled](/images/lang_javascript/JavaScript_undefined_자료형/Untitled%201.png)
+  ![Untitled](/images/lang_javascript/JavaScript_undefined_자료형/Untitled%201.png)
 
 ## References
 

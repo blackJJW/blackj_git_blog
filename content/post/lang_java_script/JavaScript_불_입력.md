@@ -14,20 +14,20 @@ tags:
 - 문자열 외에 불 자료형도 입력 가능
 - **confirm() 함수** 사용
 
-```jsx
-confirm(메시지 문자열)
-```
+  ```jsx
+  confirm(메시지 문자열)
+  ```
 
 - confirm() 함수의 사용
 
-```jsx
-<script>
-	const input = confirm('확인 or 취소')
-	alert(input)
-</script>
-```
-
-![Untitled](/images/lang_javascript/JavaScript_불_입력/Untitled.png)
+  ```jsx
+  <script>
+      const input = confirm('확인 or 취소')
+      alert(input)
+  </script>
+  ```
+  
+  ![Untitled](/images/lang_javascript/JavaScript_불_입력/Untitled.png)
 
 - [확인] 클릭 시, **true 리턴**
     

@@ -37,20 +37,20 @@ tags:
     ![Untitled](/images/lang_javascript/JavaScript_변수/Untitled%201.png)
     
 
-### 구문 오류 : Identifier has already been declared
+### <u>구문 오류 : Identifier has already been declared</u>
 
 - 특정한 이름의 변수는 **한 파일에서 한 번만 선언**할 수 있다.
 - 만약 같은 이름으로 변수를 한 번 더 선언하면 오류가 발생
     - 콘솔에서 입력시에는 사용자 편의를 위해 오류가 발생하지 않도록 설정되어 있음
 
-```jsx
-<script>
-	let a = "12345"
-	let a = "67890"
-</script>
-
-Uncaught SyntaxError: Identifier 'a' has already been declared
-```
+  ```jsx
+  <script>
+      let a = "12345"
+      let a = "67890"
+  </script>
+  
+  Uncaught SyntaxError: Identifier 'a' has already been declared
+  ```
 
 - 해결 방법
     - **다른 이름의 식별자를 사용**해서 변수를 선언하면 해결 가능

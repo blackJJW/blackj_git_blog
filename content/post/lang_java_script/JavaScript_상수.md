@@ -32,23 +32,23 @@ tags:
         - 숫자 상수는 숫자 연산
         - 문자열 상수는 문자열 연산
 
-### 구문오류 : Identifier has already declared
+### <u>구문오류 : Identifier has already declared</u>
 
 - 특정한 이름의 상수는 한 파일에서 한 번만 선언 가능
 - 만약 같은 이름으로 상수를 한 번 더 선언하면 오류 발생
 
-```jsx
->const name = "11111"
-undefined
->const name = "22222"
-Uncaught SyntaxError: Identifier 'name' has already declared
-```
+  ```jsx
+  >const name = "11111"
+  undefined
+  >const name = "22222"
+  Uncaught SyntaxError: Identifier 'name' has already declared
+  ```
 
 - 해결 방법
     1. 콘솔에서 코드를 입력하여 발생한 경우, 새로고침(F5)를 눌러 자바스크립트 상태를 초기화한 후 다시 코드를 입력한다.
     2. 다른 이름의 식별자를 사용하여 상수를 선언한다.
 
-### 구문오류 : Missing initializer in const declaration
+### <u>구문오류 : Missing initializer in const declaration</u>
 
 - 상수는 한 번만 선언 가능
     - 선언 시 반드시 값을 지정해줘야 한다.
@@ -56,7 +56,7 @@ Uncaught SyntaxError: Identifier 'name' has already declared
     ![Untitled](/images/lang_javascript/JavaScript_상수/Untitled%201.png)
     
 
-### 구문오류 : Assignment to constant variable
+### <u>구문오류 : Assignment to constant variable</u>
 
 - 한 번 선언된 상수의 자료는 변경 불가
     

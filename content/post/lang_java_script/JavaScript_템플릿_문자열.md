@@ -14,7 +14,7 @@ tags:
 - 자바스크립트에서 문자열 **내부에 표현식을 삽입**할 때는 **문자열 연결 연산자(+)**를 사용
     - 이 경우 표현식을 많이 결합할 경우 **코드가 복잡**해짐.
 
-![Untitled](/images/lang_javascript/JavaScript_템플릿_문자열/Untitled.png)
+    ![Untitled](/images/lang_javascript/JavaScript_템플릿_문자열/Untitled.png)
 
 - 자바스크립트에 **템플릿 문자열**이라는 기능이 추가되어 간단하게 코드 작성이 가능해짐
     - 탬플릿 문자열은 **백틱**( **`** ) 기호로 감싸서 생성

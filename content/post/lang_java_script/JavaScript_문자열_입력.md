@@ -11,22 +11,22 @@ tags:
 ---
 <!--more-->
 
-### 문자열 입력
+### <u>문자열 입력</u>
 
 - 문자열 자료형 입력시 사용하는 함수는 **prompt()**
 
-```jsx
-prompt(메시지 문자열, 기본 입력 문자열)
-```
+   ```jsx
+   prompt(메시지 문자열, 기본 입력 문자열)
+   ```
 
 - prompt() 함수 **매개변수**의 역할
 
-```jsx
-<script>
-	const input = prompt('message', '_default')
-	alert(input)
-</script>
-```
+   ```jsx
+   <script>
+       const input = prompt('message', '_default')
+       alert(input)
+   </script>
+   ```
 
 1. 코드 실행 시, 사용자에게 입력을 요구하는 창이 나타남
     1. prompt() 함수의 매개변수들이 어디에 출력되는 지 확인
