@@ -31,9 +31,9 @@ tags:
 
 - **forof 코드 블록**으로 이동 후 `Enter` 또는 `Tab` 키를 누른다.
     
-    ![Untitled](/lang_javascript/JavaScript_for_of_반복문/Untitled.png)
+    ![Untitled](/images/lang_javascript/JavaScript_for_of_반복문/Untitled.png)
     
-    ![Untitled](/lang_javascript/JavaScript_for_of_반복문/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/JavaScript_for_of_반복문/Untitled%201.png)
     
     ```jsx
     for (const iterator of object) {
@@ -53,7 +53,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/lang_javascript/JavaScript_for_of_반복문/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/JavaScript_for_of_반복문/Untitled%202.png)
     
 
 ## References
