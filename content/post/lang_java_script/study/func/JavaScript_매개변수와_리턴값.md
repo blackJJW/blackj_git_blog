@@ -1,4 +1,15 @@
-# JavaScript - 매개변수와 리턴값
+---
+title: "[JavaScript] 선언적 함수"
+description: ""
+date: "2022-05-27T16:30:45+09:00"
+thumbnail: ""
+categories:
+  - "JavaScript"
+tags:
+
+
+---
+<!--more-->
 
 - **매개변수** : 함수를 호출할 때 괄호 안에 적는 것
 - **리턴값** : 함수의 최종 결과
