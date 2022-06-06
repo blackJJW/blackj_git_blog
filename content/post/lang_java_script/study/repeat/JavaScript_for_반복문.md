@@ -1,7 +1,7 @@
 ---
 title: "[JavaScript] for 반복문"
 description: ""
-date: "2022-05-22T15:30:45+09:00"
+date: "2022-05-23T15:30:45+09:00"
 thumbnail: ""
 categories:
   - "JavaScript"
