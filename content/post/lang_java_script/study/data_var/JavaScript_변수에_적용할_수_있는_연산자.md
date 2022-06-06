@@ -52,7 +52,7 @@ tags:
   </html>
   ```
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled.png)
 
 - 복합 대입 연산자를 사용하지 않은 경우 - 1
 
@@ -99,7 +99,7 @@ tags:
   </script>
   ```
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%201.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%201.png)
 
 - 사용 예 - 2
     - **후위**(**postfix**) : 해당 문장을 실행 후 값을 연산을 실행
@@ -114,11 +114,11 @@ tags:
   </script>
   ```
 
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%202.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%202.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%203.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%203.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%204.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%204.png)
 
 - 사용 예 - 3
 
@@ -132,11 +132,11 @@ tags:
   </script>
   ```
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%205.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%205.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%206.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%206.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%207.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%207.png)
 
 - 사용 예 - 4
     - **전위**(**prefix**) : 해당 문장을 실행하기 전 연산을 먼저 실행
@@ -151,11 +151,11 @@ tags:
   </script>
   ```
 
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%208.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%208.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%209.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%209.png)
   
-  ![Untitled](/images/lang_javascript/JavaScript_변수에_적용할_수_있는_연산자/Untitled%2010.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_변수에_적용할_수_있는_연산자/Untitled%2010.png)
 
 ## References
 

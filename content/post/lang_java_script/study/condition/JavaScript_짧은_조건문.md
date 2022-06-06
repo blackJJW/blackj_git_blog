@@ -24,7 +24,7 @@ tags:
 - 참(true)이 확실할 때 추가 연산을 진행하지 않음
     - 논리합 연산자의 **좌변이 참이면 우변을 실행하지 않음**
     
-    ![Untitled](/images/lang_javascript/JavaScript_짧은_조건문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_짧은_조건문/Untitled.png)
     
     ```jsx
     불 표현식 || 불 표현식이 거짓일 때 실행할 문장

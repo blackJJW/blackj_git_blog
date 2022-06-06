@@ -26,7 +26,7 @@ tags:
     let pi = 3.141592  -> pi라는 이름의 변수를 선언하고, 3.141592라는 값을 지정
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_변수/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_변수/Untitled.png)
     
     - 변수의 값을 변경할 때는 변수 이름 뒤에 **= 기호를 입력하고 값을 넣어주면 된다.**
     
@@ -34,7 +34,7 @@ tags:
     변수 = 값
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_변수/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_변수/Untitled%201.png)
     
 
 ### <u>구문 오류 : Identifier has already been declared</u>

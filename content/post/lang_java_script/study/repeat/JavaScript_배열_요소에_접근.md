@@ -16,7 +16,7 @@ tags:
 - 가장 앞에 있는 요소를 **0번째로 표현**
 - **인덱스(index)** : 요소의 순서
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소에_접근/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소에_접근/Untitled.png)
     
 
 - 괄호 안에 계산식을 넣는 것이 가능

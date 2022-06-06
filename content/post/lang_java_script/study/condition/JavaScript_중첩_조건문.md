@@ -49,7 +49,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_중첩_조건문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_중첩_조건문/Untitled.png)
     
 
 ## References

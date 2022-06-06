@@ -16,7 +16,7 @@ tags:
 - 참과 거짓 값을 표현할 때 **불**(**boolean**) **자료형**을 사용
 - **true** 와 **false**
 
-    ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled.png)
 
 - 두 대상을 비교할 수 있는 **비교 연산자**를 사용해 불을 만들 수 있음
 
@@ -29,7 +29,7 @@ tags:
     | \>= |  왼쪽이 더 크거나 같다.  |
     | <=  | 오른쪽이 더 크거나 같다.  |
 
-    ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled%201.png)
 
 - 불 자료형의 사용
     - **조건문**
@@ -53,7 +53,7 @@ tags:
         </script>
         ```
         
-        ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%202.png)
+        ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled%202.png)
         
 
 ### <u>불 부정 연산자</u>
@@ -61,7 +61,7 @@ tags:
 - **논리 부정 연산자**
     - **! 기호**를 사용하며 true를 false로, false를 true로 바꾼다.
         
-        ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%203.png)
+        ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled%203.png)
         
 
 - **단항 연산자**
@@ -104,9 +104,9 @@ tags:
     | false |  true  |  true  |
     | false | false  | false  |
 
-    ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%204.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled%204.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_불_자료형/Untitled%205.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_자료형/Untitled%205.png)
 
 ## References
 

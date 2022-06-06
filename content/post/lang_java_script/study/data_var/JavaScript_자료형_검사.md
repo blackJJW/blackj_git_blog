@@ -19,15 +19,15 @@ tags:
     typeof(자료)
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_자료형_검사/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_자료형_검사/Untitled.png)
     
     - 괄호가 없어도 상관없음
     
-    ![Untitled](/images/lang_javascript/JavaScript_자료형_검사/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_자료형_검사/Untitled%201.png)
     
     - typeof 연산자는 문자열과 비교해서 자료형을 확인하는 경우가 많음.
     
-    ![Untitled](/images/lang_javascript/JavaScript_자료형_검사/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_자료형_검사/Untitled%202.png)
     
     - typeof 연산자 결과
         - string, number, boolean, undefined, function, object, symbol, bigint

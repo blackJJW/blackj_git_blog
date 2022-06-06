@@ -23,13 +23,13 @@ tags:
     - 코드 작성 시 **for** 입력
     - **for 와 관련된 여러 블록**들이 나옴
         
-        ![Untitled](/images/lang_javascript/JavaScript_for_반복문/Untitled.png)
+        ![Untitled](/images/lang_javascript/study/JavaScript_for_반복문/Untitled.png)
         
     - **for 코드 블록**으로 이동 후 `Enter` 또는 `Tab` 키를 누른다.
         
-        ![Untitled](/images/lang_javascript/JavaScript_for_반복문/Untitled%201.png)
+        ![Untitled](/images/lang_javascript/study/JavaScript_for_반복문/Untitled%201.png)
         
-        ![Untitled](/images/lang_javascript/JavaScript_for_반복문/Untitled%202.png)
+        ![Untitled](/images/lang_javascript/study/JavaScript_for_반복문/Untitled%202.png)
         
         ```jsx
         for (let index = 0; index < array.length; index++) {
@@ -53,7 +53,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_for_반복문/Untitled%203.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_for_반복문/Untitled%203.png)
     
 - 1부터 N까지 더하기
     
@@ -69,7 +69,7 @@ tags:
         </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_for_반복문/Untitled%204.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_for_반복문/Untitled%204.png)
     
 
 ## References

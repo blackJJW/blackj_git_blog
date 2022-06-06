@@ -27,16 +27,16 @@ tags:
   </script>
   ```
   
-  ![Untitled](/images/lang_javascript/JavaScript_불_입력/Untitled.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_불_입력/Untitled.png)
 
 - [확인] 클릭 시, **true 리턴**
     
-    ![Untitled](/images/lang_javascript/JavaScript_불_입력/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_입력/Untitled%201.png)
     
 
 - [취소] 클릭 시, **false 리턴**
     
-    ![Untitled](/images/lang_javascript/JavaScript_불_입력/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_불_입력/Untitled%202.png)
     
 
 ## References

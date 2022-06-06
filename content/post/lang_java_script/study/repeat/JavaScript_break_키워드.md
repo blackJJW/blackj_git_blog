@@ -36,9 +36,9 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_break_키워드/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_break_키워드/Untitled.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_break_키워드/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_break_키워드/Untitled%201.png)
     
     - [확인] 버튼을 클릭하면 true가 되어 반복 계속
     - [취소] 버튼능 클릭하면 false가 되어 실행 종료

@@ -32,9 +32,9 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_if_조건문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_if_조건문/Untitled.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_if_조건문/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_if_조건문/Untitled%201.png)
     
     ```jsx
     <script>
@@ -46,7 +46,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_if_조건문/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_if_조건문/Untitled%201.png)
     
 - 오전과 오후 구분
     
@@ -65,7 +65,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_if_조건문/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_if_조건문/Untitled%202.png)
     
 
 ## References

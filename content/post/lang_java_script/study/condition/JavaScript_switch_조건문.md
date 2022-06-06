@@ -45,15 +45,15 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled%201.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled%202.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled%203.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled%203.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled%204.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled%204.png)
     
 
 - break 키워드 : switch 조건문이나 반복문을 빠져나가시 위해 사요하는 키워드
@@ -82,7 +82,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_switch_조건문/Untitled%205.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_switch_조건문/Untitled%205.png)
     
 
 ## References

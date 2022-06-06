@@ -21,7 +21,7 @@ tags:
     [요소, 요소, 요소, ... , 요소]
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_만들기/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_만들기/Untitled.png)
     
     ```jsx
     (요소 개수) [요소]
@@ -30,7 +30,7 @@ tags:
 
 - 구글 크롬 개발자 도구의 Console에서 출력된 배열 결과 왼쪽에 **드롭 다운 버튼 ▶**를 클릭하면 **배열 순서에 따른 값들을 확인** 가능
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_만들기/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_만들기/Untitled%201.png)
     
 
 ## References

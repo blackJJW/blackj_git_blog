@@ -27,7 +27,7 @@ tags:
   > 0 == []  -> 0은 false, 비어있는 배열 []는 false로 변환된 뒤에 비교
   ```
 
-  ![Untitled](/images/lang_javascript/JavaScript_==연산자와_!=연산자/Untitled.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_==연산자와_!=연산자/Untitled.png)
 
 ## References
 

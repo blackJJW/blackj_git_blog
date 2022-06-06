@@ -19,7 +19,7 @@ tags:
     배열.push(요소)
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_뒷부분에_요소_추가/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_뒷부분에_요소_추가/Untitled.png)
     
 
 ### 인덱스를 사용해 배열 뒷부분에 요소 추가
@@ -29,11 +29,11 @@ tags:
     - ex) 3개의 요소를 가진 배열에 10번째 인덱스에 요소를 추가
         - 4 ~ 9번째 인덱스에는 아무 것도 없는 **empty**가 된다.
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_뒷부분에_요소_추가/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_뒷부분에_요소_추가/Untitled%201.png)
     
 - length 속성을 사용하여 배열의 마지막 위치에 요소를 추가 가능
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_뒷부분에_요소_추가/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_뒷부분에_요소_추가/Untitled%202.png)
     
 
 ## References

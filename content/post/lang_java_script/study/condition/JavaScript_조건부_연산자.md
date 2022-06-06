@@ -31,15 +31,15 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_조건부_연산자/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_조건부_연산자/Untitled.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_조건부_연산자/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_조건부_연산자/Untitled%201.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_조건부_연산자/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_조건부_연산자/Untitled%202.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_조건부_연산자/Untitled%203.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_조건부_연산자/Untitled%203.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_조건부_연산자/Untitled%204.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_조건부_연산자/Untitled%204.png)
     
 
 ## References

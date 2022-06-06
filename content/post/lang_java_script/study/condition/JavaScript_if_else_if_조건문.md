@@ -43,7 +43,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_if_else_if_조건문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_if_else_if_조건문/Untitled.png)
     
 
 ## References

@@ -23,7 +23,7 @@ tags:
     배열.splice(인덱스, 제거할 요소의 개수)
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소_제거/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소_제거/Untitled.png)
     
 
 ### 값으로 요소 제거
@@ -38,20 +38,20 @@ tags:
 - **indexOf() 메소드 :** 배열 내부에 **요소가 있을 경우 인덱스를 리턴**
     - 배열 내부에 **요소가 없을 경우 -1을 리턴**
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소_제거/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소_제거/Untitled%201.png)
     
 
 - **문자열의 indexOf() 메소드**
     - 문자열 내부에서 특정 문자열의 위치를 찾을 수 있음
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소_제거/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소_제거/Untitled%202.png)
     
 
 - **배열 내부에서 특정 값을 가진 요소 모두 제거**
     - 반복문 사용
     - **filter() 메소드** 사용
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소_제거/Untitled%203.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소_제거/Untitled%203.png)
     
 
 ## References

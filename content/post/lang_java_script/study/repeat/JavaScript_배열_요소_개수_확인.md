@@ -18,7 +18,7 @@ tags:
     배열.length
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열_요소_개수_확인/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열_요소_개수_확인/Untitled.png)
     
     ```jsx
     배열[배열.length - 1]

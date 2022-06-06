@@ -20,7 +20,7 @@ tags:
     배열.splice(인덱스, 0, 요소)
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_배열의_특정_위치에_요소_추가/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_배열의_특정_위치에_요소_추가/Untitled.png)
     
 
 ## References

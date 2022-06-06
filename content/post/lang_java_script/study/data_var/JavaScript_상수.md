@@ -26,7 +26,7 @@ tags:
     const pi = 3.141592   -> pi라는 이름의 상수를 선언하고, 3.141592라는 값을 할당
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_상수/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_상수/Untitled.png)
     
     - 상수를 만든 뒤에 상수 이름을 상용해서 자료를 사용 가능
         - 숫자 상수는 숫자 연산
@@ -53,14 +53,14 @@ tags:
 - 상수는 한 번만 선언 가능
     - 선언 시 반드시 값을 지정해줘야 한다.
     
-    ![Untitled](/images/lang_javascript/JavaScript_상수/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_상수/Untitled%201.png)
     
 
 ### <u>구문오류 : Assignment to constant variable</u>
 
 - 한 번 선언된 상수의 자료는 변경 불가
     
-    ![Untitled](/images/lang_javascript/JavaScript_상수/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_상수/Untitled%202.png)
     
 
 - 해결 방법

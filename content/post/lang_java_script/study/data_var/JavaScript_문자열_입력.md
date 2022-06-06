@@ -31,15 +31,15 @@ tags:
 1. 코드 실행 시, 사용자에게 입력을 요구하는 창이 나타남
     1. prompt() 함수의 매개변수들이 어디에 출력되는 지 확인
     
-    ![Untitled](/images/lang_javascript/JavaScript_문자열_입력/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_문자열_입력/Untitled.png)
     
 2. 입력 창에 문자열을 입력하고, [확인] 버튼을 클릭
     
-    ![Untitled](/images/lang_javascript/JavaScript_문자열_입력/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_문자열_입력/Untitled%201.png)
     
 3. 입력한 문자열일 경고창에 출력
     
-    ![Untitled](/images/lang_javascript/JavaScript_문자열_입력/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_문자열_입력/Untitled%202.png)
     
 - 사용자가 입력창에 값을 입력하고 [확인] 버튼을 클릭하면 prompt() 함수는 **입력한 문자열을 input에 저장**
 - 함수를 실행한 후 값을 남기는 것을 **리턴**(**return**)

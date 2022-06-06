@@ -20,7 +20,7 @@ tags:
 
 - 예시
     
-    ![Untitled](/images/lang_javascript/JavaScript_자료의_비파괴와_파괴/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_자료의_비파괴와_파괴/Untitled.png)
     
     - 코드가 실행되어도 a, b, c, 의 값이 변경되지 않았다.
 
@@ -28,7 +28,7 @@ tags:
 
 - 예시
     
-    ![Untitled](/images/lang_javascript/JavaScript_자료의_비파괴와_파괴/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_자료의_비파괴와_파괴/Untitled%201.png)
     
     - 코드가 실행되어 원본의 내용이 변경되었다.
 

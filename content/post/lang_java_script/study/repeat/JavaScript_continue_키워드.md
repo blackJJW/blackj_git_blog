@@ -11,7 +11,7 @@ tags:
 ---
 <!--more-->
 
-- 반복문 안의 반복 작업을 머추고 반복문의 처음으로 돌아가 다음 반복 작업을 진행
+- **반복문 안의 반복 작업을 멈추고 반복문의 처음으로 돌아가 다음 반복 작업을 진행**
 - continue 키워드 활용(1)
     
     ```jsx
@@ -23,9 +23,11 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_continue_키워드/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_continue_키워드/Untitled.png)
     
     - 코드를 실행하면 경고창이 출력되지 않음
+
+
 - continue 키워드 활용(2)
     
     ```jsx
@@ -42,7 +44,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_continue_키워드/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_continue_키워드/Untitled%201.png)
     
 
 ## References

@@ -34,7 +34,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_while_반복문/Untitled.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_while_반복문/Untitled.png)
     
     - 코드 실행 시 [확인] 버튼을 클릭할 때마다 경고 창이 계속 뜬다.
         - 웹 브라우저를 종료할 때까지 계속 반복됨
@@ -55,9 +55,9 @@ tags:
         - [확인] 버튼을 클릭하면 **true가 되어 반복문이 계속 실행**
         - [취소] 버튼을 클릭하면 **false가 되어 반복문 종료**
     
-    ![Untitled](/images/lang_javascript/JavaScript_while_반복문/Untitled%201.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_while_반복문/Untitled%201.png)
     
-    ![Untitled](/images/lang_javascript/JavaScript_while_반복문/Untitled%202.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_while_반복문/Untitled%202.png)
     
 
 ### while 반복문과 함께 배열 사용
@@ -76,7 +76,7 @@ tags:
     </script>
     ```
     
-    ![Untitled](/images/lang_javascript/JavaScript_while_반복문/Untitled%203.png)
+    ![Untitled](/images/lang_javascript/study/JavaScript_while_반복문/Untitled%203.png)
     
 
 ## References

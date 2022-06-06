@@ -13,7 +13,7 @@ tags:
 
 - 자바스크립트는 **소수점이 있는 숫자**와 **없는 숫자**를 **모두 같은 자료형**으로 인식
 
-  ![Untitled](/images/lang_javascript/JavaScript_숫자_자료형/Untitled.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_숫자_자료형/Untitled.png)
 
 ### <u>숫자 연산자</u>
 
@@ -37,7 +37,7 @@ tags:
   (5 + 3) * 2
   ```
   
-  ![Untitled](/images/lang_javascript/JavaScript_숫자_자료형/Untitled%201.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_숫자_자료형/Untitled%201.png)
 
 - **나머지 연산자**(**%** 연산자)
     - 좌변을 우변으로 나눈 나머지를 출력
@@ -46,7 +46,7 @@ tags:
   |:-----:|:--------:|
   |   %   | 나머지 연산자  |
   
-  ![Untitled](/images/lang_javascript/JavaScript_숫자_자료형/Untitled%202.png)
+  ![Untitled](/images/lang_javascript/study/JavaScript_숫자_자료형/Untitled%202.png)
 
 ## References
 
