@@ -34,7 +34,7 @@ tags:
     
     ![Untitled](/images/lang_javascript/JavaScript_for_in_반복문/Untitled.png)
     
-- for 반복문의 **반복 변수(위의 코드의 i)**에는 요소의 인덱스들이 들어옴
+- for 반복문의 **반복 변수**(**위의 코드의 i**)에는 요소의 인덱스들이 들어옴
     - 이를 활용하여 배열 요소에 접근
 - **for in 코드 블록** 사용
     - 코드 작성 시 **for** 입력
