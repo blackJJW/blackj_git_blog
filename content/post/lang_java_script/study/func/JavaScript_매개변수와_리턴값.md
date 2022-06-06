@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] 선언적 함수"
+title: "[JavaScript] 매개변수와 리턴값"
 description: ""
 date: "2022-05-27T16:30:45+09:00"
 thumbnail: ""
