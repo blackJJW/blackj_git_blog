@@ -642,9 +642,11 @@ plt.show()
 
 ![png](/images/kaggle/ubiquant-1/output_54_1.png)
 
+# 현 과정
+https://www.kaggle.com/code/blackjjw/ubiquant-1
 
 # 다음 과정
-https://www.kaggle.com/blackjjw/ubiquant-2/edit   
+https://www.kaggle.com/code/blackjjw/ubiquant-2
 
 ### References
 https://www.kaggle.com/code/yoshikuwano/fast-read-data-and-memory-optimization/notebook   

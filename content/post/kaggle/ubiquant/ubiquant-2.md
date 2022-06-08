@@ -2073,6 +2073,12 @@ for (test_df, sample_prediction_df) in iter_test:
     This version of the API is not optimized and should not be used to estimate the runtime of your code on the hidden test set.
     
 
+# 현 과정
+https://www.kaggle.com/code/blackjjw/ubiquant-2
+
+# 이전 과정
+https://www.kaggle.com/code/blackjjw/ubiquant-1
+
 # References :    
 https://www.kaggle.com/code/yoshikuwano/fast-read-data-and-memory-optimization/notebook   
 https://www.kaggle.com/code/rohanrao/tutorial-on-reading-large-datasets/notebook#Format:-csv   
