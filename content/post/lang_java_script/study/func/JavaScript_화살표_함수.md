@@ -21,7 +21,8 @@ tags:
     
     }불 표현식 || 불 표현식이 false일 때 실행할 문장 
     ```
-    
+
+
 - 화살표 함수는 다음과 같이 간편하게 사용
     
     ```jsx
@@ -36,6 +37,7 @@ tags:
     
     ![Untitled](/images/lang_javascript/study/JavaScript_화살표_함수/Untitled.png)
     
+
 
 - 배열의 메소드와 화살표 함수
     
