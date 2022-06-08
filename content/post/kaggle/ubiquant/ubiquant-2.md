@@ -8,6 +8,7 @@ categories:
 tags:
   - "Python"
   - "ML"
+  - "Kaggle"
 
 ---
 ### Prediction and Score

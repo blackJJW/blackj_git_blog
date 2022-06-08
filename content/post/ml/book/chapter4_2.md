@@ -7,7 +7,7 @@ categories:
   - "ML"
 tags:
   - "Python"
-  - "Book"
+  - "ML"
 
 ---
 <!--more-->

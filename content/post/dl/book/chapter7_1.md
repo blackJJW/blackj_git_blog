@@ -7,7 +7,7 @@ categories:
   - "DL"
 tags:
   - "Python"
-  - "Book"
+  - "DL"
 
 ---
 <!--more-->

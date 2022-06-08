@@ -6,6 +6,7 @@ thumbnail: ""
 categories:
   - "JavaScript"
 tags:
+  - "JavaScript"
  
 
 ---

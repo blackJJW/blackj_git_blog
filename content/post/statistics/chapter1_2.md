@@ -7,6 +7,7 @@ categories:
   - "Statistics"
 tags:
   - "Python"
+  - "Statistics"
 
 ---
 <!--more-->
