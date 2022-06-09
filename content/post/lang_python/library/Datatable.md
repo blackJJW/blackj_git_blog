@@ -46,7 +46,7 @@ tags:
     - `pip`를 통한 설치
         
         ```bash
-        pip install datatable
+        $ pip install datatable
         ```
         
         ![Untitled](/images/lang_python/library/Datatable/Untitled%203.png)
