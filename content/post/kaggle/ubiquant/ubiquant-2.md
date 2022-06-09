@@ -1,5 +1,5 @@
 ---
-title: "[Kaggle]Ubiquant Market Prediction - Prediction & Score"
+title: "[Kaggle] Ubiquant Market Prediction - Prediction & Score"
 description: ""
 date: "2022-04-24T18:33:45+09:00"
 thumbnail: ""
