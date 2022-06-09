@@ -39,7 +39,7 @@ tags:
         $ pip install pip --upgrade
         ```
 
-        ![Untitled](Datatable%201cf3e7ec7e74449ca1631c244195de95/Untitled%202.png)
+        ![Untitled](/images/lang_python/library/Datatable/Untitled%202.png)
         
 
 - **기본 설치**
