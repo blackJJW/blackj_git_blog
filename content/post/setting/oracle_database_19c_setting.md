@@ -1,5 +1,5 @@
 ---
-title: "[Oracle][setting]Oracle Database 19c Installation and Setting"
+title: "[Oracle][setting] Oracle Database 19c Installation and Setting"
 description: ""
 date: "2022-04-23T18:30:45+09:00"
 thumbnail: ""
@@ -7,7 +7,7 @@ categories:
   - "Setting"
 tags:
   - "Oracle"
-
+  - "DB"
 ---
 <!--more-->
 

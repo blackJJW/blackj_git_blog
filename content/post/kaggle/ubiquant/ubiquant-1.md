@@ -1,5 +1,5 @@
 ---
-title: "[Kaggle]Ubiquant Market Prediction - 1"
+title: "[Kaggle] Ubiquant Market Prediction - Data & EDA"
 description: ""
 date: "2022-04-24T18:30:45+09:00"
 thumbnail: ""
@@ -11,7 +11,6 @@ tags:
   - "Kaggle"
 
 ---
-### EDA
 <!--more-->
 # Step 1. 라이브러리 불러오기
 - 본 프로젝트 수행을 위한 필수 라이브러리를 불러온다.

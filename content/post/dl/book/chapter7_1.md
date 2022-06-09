@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch7-1 인공 신경망"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch7-1 인공 신경망"
 description: ""
 date: "2022-04-23T16:50:45+09:00"
 thumbnail: ""

@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch6-2 k-평균"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch6-2 k-평균"
 description: ""
 date: "2022-04-23T16:34:45+09:00"
 thumbnail: ""

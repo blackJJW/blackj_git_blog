@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch7-3 신경망 모델 훈련"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch7-3 신경망 모델 훈련"
 description: ""
 date: "2022-04-23T17:30:45+09:00"
 thumbnail: ""

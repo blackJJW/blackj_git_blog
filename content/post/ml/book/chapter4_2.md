@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch4-2 확률적 경사 하강법"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch4-2 확률적 경사 하강법"
 description: ""
 date: "2022-04-22T16:30:45+09:00"
 thumbnail: ""

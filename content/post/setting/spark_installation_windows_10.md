@@ -1,5 +1,5 @@
 ---
-title: "[Spark][setting]Spark Installation(Windows 10)"
+title: "[Spark][setting] Spark Installation(Windows 10)"
 description: ""
 date: "2022-04-23T16:35:45+09:00"
 thumbnail: ""

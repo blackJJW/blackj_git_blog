@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch9-2 순환 신경망으로 IMDB 리뷰 분류하기"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch9-2 순환 신경망으로 IMDB 리뷰 분류하기"
 description: ""
 date: "2022-05-05T17:30:45+09:00"
 thumbnail: ""

@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch2-2 데이터 전처리"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch2-2 데이터 전처리"
 description: ""
 date: "2022-04-22T16:25:45+09:00"
 thumbnail: ""

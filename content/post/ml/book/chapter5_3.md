@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch5-3 트리의 앙상블"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch5-3 트리의 앙상블"
 description: ""
 date: "2022-04-23T16:32:45+09:00"
 thumbnail: ""

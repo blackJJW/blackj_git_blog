@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch3-3 특성 공학과 규제"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch3-3 특성 공학과 규제"
 description: ""
 date: "2022-04-22T16:28:45+09:00"
 thumbnail: ""

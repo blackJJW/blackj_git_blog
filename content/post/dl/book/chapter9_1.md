@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch9-1 순차 데이터와 순환 신경망"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch9-1 순차 데이터와 순환 신경망"
 description: ""
 date: "2022-05-04T17:30:45+09:00"
 thumbnail: ""

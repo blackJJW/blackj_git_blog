@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch5-1 결정 트리"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch5-1 결정 트리"
 description: ""
 date: "2022-04-22T16:31:45+09:00"
 thumbnail: ""

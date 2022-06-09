@@ -1,5 +1,5 @@
 ---
-title: "[Statistics]ch2 통계학 기본"
+title: "[Statistics] ch2 통계학 기본"
 description: ""
 date: "2022-04-29T18:33:45+09:00"
 thumbnail: ""

@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch2-1 훈련 세트와 테스트 세트"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch2-1 훈련 세트와 테스트 세트"
 description: ""
 date: "2022-04-22T16:24:45+09:00"
 thumbnail: ""

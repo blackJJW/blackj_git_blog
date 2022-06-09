@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch6-3 주성분 분석"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch6-3 주성분 분석"
 description: ""
 date: "2022-04-23T16:40:45+09:00"
 thumbnail: ""

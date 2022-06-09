@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch6-1 군집 알고리즘"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch6-1 군집 알고리즘"
 description: ""
 date: "2022-04-23T16:33:45+09:00"
 thumbnail: ""

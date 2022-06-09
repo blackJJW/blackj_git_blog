@@ -1,5 +1,5 @@
 ---
-title: "[SQL][PL/SQL]SQL과 PL/SQL"
+title: "[SQL][PL/SQL] SQL과 PL/SQL"
 description: ""
 date: "2022-04-25T19:33:45+09:00"
 thumbnail: ""

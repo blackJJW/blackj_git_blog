@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch8-1 합성곱 신경망의 구성 요소"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch8-1 합성곱 신경망의 구성 요소"
 description: ""
 date: "2022-05-01T17:30:45+09:00"
 thumbnail: ""

@@ -1,5 +1,5 @@
 ---
-title: "[DL][Book][혼공 머신러닝+딥러닝]ch8-3 합성곱 신경망의 시각화"
+title: "[DL][Book][혼공 머신러닝+딥러닝] ch8-3 합성곱 신경망의 시각화"
 description: ""
 date: "2022-05-03T17:30:45+09:00"
 thumbnail: ""

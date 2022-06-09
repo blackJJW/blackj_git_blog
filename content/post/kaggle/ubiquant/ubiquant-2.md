@@ -1,5 +1,5 @@
 ---
-title: "[Kaggle]Ubiquant Market Prediction - 2"
+title: "[Kaggle]Ubiquant Market Prediction - Prediction & Score"
 description: ""
 date: "2022-04-24T18:33:45+09:00"
 thumbnail: ""
@@ -11,7 +11,6 @@ tags:
   - "Kaggle"
 
 ---
-### Prediction and Score
 <!--more-->
 ## < Score Improvement History >
 |#|> std * x|k-fold|score|rank|

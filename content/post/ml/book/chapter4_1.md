@@ -1,5 +1,5 @@
 ---
-title: "[ML][Book][혼공 머신러닝+딥러닝]ch4-1 로지스틱 회귀"
+title: "[ML][Book][혼공 머신러닝+딥러닝] ch4-1 로지스틱 회귀"
 description: ""
 date: "2022-04-22T16:29:45+09:00"
 thumbnail: ""
