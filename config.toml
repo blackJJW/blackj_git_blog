@@ -40,10 +40,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   categories_counter = true
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
   social = true
-
-[Params.widgets.social]
-  github = "blackJJW"
-  email = "jjinwoo92@gmail.com"
+  social_github = "blackJJW"
+  social_email = "jjinwoo92@gmail.com"
 
 [menu]
   [[menu.main]]
