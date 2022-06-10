@@ -33,13 +33,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = true
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
-  social = true
+
+[Params.widgets.social]
   social_github = "blackJJW"
   social_email = "jjinwoo92@gmail.com"
 
