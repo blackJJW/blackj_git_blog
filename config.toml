@@ -39,6 +39,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = true
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+  social = true
 
 [Params.widgets.social]
   github = "blackJJW"
