@@ -46,3 +46,4 @@ tags:
 ## References
 
 - 혼자 공부하는 자바스크립트 - 윤인성 지음, 한빛미디어 출판
+- https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Number
