@@ -41,7 +41,7 @@ tags:
     </script>
     ```
     
-    - this**.valueOf**() 로 값을 추출
+    - this.**valueOf**() 로 값을 추출
         - 객체 내부에서 값을 꺼낸 쓰는 것임을 명확하게 하기 위해 **valueOf**() 메소드를 사용하는 것이 일반적
     
     ![Untitled](/images/lang_javascript/study/JavaScript_프로토타입으로_메소드_추가/Untitled%201.png)
