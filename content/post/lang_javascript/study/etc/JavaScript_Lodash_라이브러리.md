@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript][Library] Lodash 라이브러리"
+title: "[JavaScript][Library] Lodash"
 description: ""
 date: "2022-06-07T13:30:45+09:00"
 thumbnail: ""
