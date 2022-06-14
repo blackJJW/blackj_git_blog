@@ -1,5 +1,5 @@
 ---
-title: "[JavaScript] 속성 조작"
+title: "[JavaScript] 스타일 조작"
 description: ""
 date: "2022-06-10T14:30:45+09:00"
 thumbnail: ""
