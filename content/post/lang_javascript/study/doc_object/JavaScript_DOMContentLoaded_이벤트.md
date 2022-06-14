@@ -38,8 +38,8 @@ tags:
     ```
     
     - 기본적인 실행 순서
-        - <!DOCTYPE html> → HTML5 인식
-        - <html> → <head> → <title> → <body>
+        - `<!DOCTYPE html>` → HTML5 인식
+        - `<html>` → `<head>` → `<title>` → `<body>`
     
 - HTML 코드를 자바스크립트로 조작
     - document의 body 안에 있는 HTML 코드(innerHTML)를 자바스크립드로 조작할 수 있게 해주는 코드
