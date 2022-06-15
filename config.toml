@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blackjjw.github.io//"
 title = "Black_JJW's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -43,6 +43,11 @@ googleAnalytics = "UA-231675751-1" # Enable Google Analytics by entering your tr
 [Params.widgets.social]
   github = "blackJJW"
   email = "jjinwoo92@gmail.com"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [menu]
   [[menu.main]]
