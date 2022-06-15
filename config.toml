@@ -45,7 +45,7 @@ googleAnalytics = "UA-231675751-1" # Enable Google Analytics by entering your tr
   email = "jjinwoo92@gmail.com"
 
 [sitemap]
-  changefreq = 'monthly'
+  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
 
