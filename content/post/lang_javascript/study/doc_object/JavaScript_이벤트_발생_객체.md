@@ -60,7 +60,7 @@ tags:
             <script>
             	const listener = (event) => {
             		const length = event.currentTarget.value.length
-            										// event.currentTarget 이 textarea가 됨
+                                // event.currentTarget 이 textarea가 됨
             		h1.textContext = `글자 수 : ${length}`;
             	};
             
@@ -80,7 +80,7 @@ tags:
             <script>
             	const listener = (event) {
             		const length = this.value.length
-            										// this가 textarea가 됨
+                                    // this가 textarea가 됨
             		h1.textContext = `글자 수 : ${length}`;
             	};
             
