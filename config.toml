@@ -61,42 +61,42 @@ googleAnalytics = "UA-231675751-1" # Enable Google Analytics by entering your tr
     url = "/categories/python/"
     weight = 2
   [[menu.main]]
-    identifier = "setting"
-    name = "Setting"
-    url = "/categories/setting/"
+    identifier = "javascript"
+    name = "JavaScript"
+    url = "/categories/javascript/"
     weight = 3
-  [[menu.main]]
-    identifier = "ml"
-    name = "ML"
-    url = "/categories/ml/"
-    weight = 4
-  [[menu.main]]
-    identifier = "dl"
-    name = "DL"
-    url = "/categories/dl/"
-    weight = 5
-  [[menu.main]]
-    identifier = "kaggle"
-    name = "Kaggle"
-    url = "/categories/kaggle/"
-    weight = 6
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/categories/projects/"
-    weight = 7
-  [[menu.main]]
-    identifier = "Statistics"
-    name = "statistics"
-    url = "/categories/statistics/"
-    weight = 8
   [[menu.main]]
     identifier = "SQL"
     name = "sql"
     url = "/categories/sql/"
+    weight = 4
+  [[menu.main]]
+    identifier = "ml"
+    name = "ML"
+    url = "/categories/ml/"
+    weight = 5
+  [[menu.main]]
+    identifier = "dl"
+    name = "DL"
+    url = "/categories/dl/"
+    weight = 6
+  [[menu.main]]
+    identifier = "kaggle"
+    name = "Kaggle"
+    url = "/categories/kaggle/"
+    weight = 7
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/categories/projects/"
+    weight = 8
+  [[menu.main]]
+    identifier = "Statistics"
+    name = "statistics"
+    url = "/categories/statistics/"
     weight = 9
   [[menu.main]]
-    identifier = "javascript"
-    name = "JavaScript"
-    url = "/categories/javascript/"
+    identifier = "setting"
+    name = "Setting"
+    url = "/categories/setting/"
     weight = 10
