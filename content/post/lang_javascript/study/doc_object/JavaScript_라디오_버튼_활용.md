@@ -73,7 +73,7 @@ tags:
         
         ![Untitled](/images/lang_javascript/study_1/JavaScript_라디오_버튼_활용/Untitled%202.png)
         
-        - **라디오 버튼을 사요할 때는 꼭 name 속성과 함께 사용**해야된다.
+        - **라디오 버튼을 사용할 때는 꼭 name 속성과 함께 사용**해야된다.
 
 ## References
 
