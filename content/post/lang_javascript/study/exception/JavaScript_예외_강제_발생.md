@@ -30,34 +30,35 @@ tags:
     
     ```jsx
     <script>
-    	function divide(a, b) {
-    		if (b === 0) {
-    			throw '0으로 나눌 수 없다.'
-    		}
-    		return a / b
-    	}
+        function divide(a, b) {
+            if (b === 0) {
+                throw '0으로 나눌 수 없다.'
+            }
+            return a / b
+        }
     
-    	console.log(divide(10, 2))
-    	console.log(divide(10, 0))
+        console.log(divide(10, 2))
+        console.log(divide(10, 0))
     </script>
     ```
     
     ![Untitled](/images/lang_javascript/study_2/JavaScript_예외_강제_발생/Untitled%201.png)
+
     
 - 예외를 강제로 발생시키기
     
     ```jsx
     <script>
-    	function test(object){
-    		console.log(object.a + object.b)
-    	}
+        function test(object){
+            console.log(object.a + object.b)
+        }
     
-    	test({})
+        test({})
     </script>
     ```
     
     ![Untitled](/images/lang_javascript/study_2/JavaScript_예외_강제_발생/Untitled%202.png)
-    
+ 
     - 일반적인 프로그래밍 언어의 경우
         - object 객체에 a 속성과 b 속성이 없으므로 예외를 발생
         - 존재하지 않는 것을 더하므로 object.a + object.b를 할 때도 예외를 발생
@@ -66,21 +67,22 @@ tags:
         - **undefined + undefined 를 하면 NaN이 출력**
         - 아무 오류없이 코드가 정상적으로 실행된다.
 
+
 - 자바스크립트는 **NaN**과 **undefined**라는 값이 있어서 다른 프로그래밍 언어에 비해서 예외를 많이 발생하지 않음
 - 사용자에게 함수를 잘못 사용했다는 것을 **강제로라도 인지시켜줄 필요**가 있다.
 - 예외를 강제로 발생시켜 사용 유도
     
     ```jsx
     <script>
-    	function test(object) {
-    		if (object.a !== undefined && object.b !== undefined) {
-    			console.log(object.a + object.b)
-    		} else {
-    			throw new Error("a 속성과 b 속성을 지정하지 않았음.")
-    		}
-    	}
+        function test(object) {
+            if (object.a !== undefined && object.b !== undefined) {
+                console.log(object.a + object.b)
+            } else {
+                throw new Error("a 속성과 b 속성을 지정하지 않았음.")
+            }
+        }
     
-    	test({})
+        test({})
     </script>
     ```
     
