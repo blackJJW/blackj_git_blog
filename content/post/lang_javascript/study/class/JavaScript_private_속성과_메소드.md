@@ -16,19 +16,19 @@ tags:
     
     ```jsx
     <script>
-    	// 정사각형 
-    	class Square {
-    		constructor (length){
-    			this.length = length
-    		}
-    		getPerimeter(){ return 4 * this.length }
-    		getArea(){ return this.length * this.length }
-    	}
+        // 정사각형 
+        class Square {
+            constructor (length){
+                this.length = length
+            }
+            getPerimeter(){ return 4 * this.length }
+            getArea(){ return this.length * this.length }
+        }
     
-    	// 클래스 사용
-    	const square = new Square(-10) // 길이에 음수를 넣어서 사용
-    	console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
-    	console.log(`정사각형의 넓이 : ${square.getArea()}`)
+        // 클래스 사용
+        const square = new Square(-10) // 길이에 음수를 넣어서 사용
+        console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
+        console.log(`정사각형의 넓이 : ${square.getArea()}`)
     </script>
     ```
     
@@ -42,23 +42,23 @@ tags:
     
     ```jsx
     <script>
-    	// 정사각형 
-    	class Square {
-    		constructor (length){
-    			if (length <= 0) {
-    				throw '길이는 0보다 커야 된다.'
-    				// throw 키워드를 사용하여 강제로 오류를 발생
-    			}
-    			this.length = length
-    		}
-    		getPerimeter(){ return 4 * this.length }
-    		getArea(){ return this.length * this.length }
-    	}
+        // 정사각형 
+        class Square {
+            constructor (length){
+                if (length <= 0) {
+                    throw '길이는 0보다 커야 된다.'
+                    // throw 키워드를 사용하여 강제로 오류를 발생
+                }
+                this.length = length
+            }
+            getPerimeter(){ return 4 * this.length }
+            getArea(){ return this.length * this.length }
+        }
     
-    	// 클래스 사용
-    	const square = new Square(-10) // 길이에 음수를 넣어서 사용
-    	console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
-    	console.log(`정사각형의 넓이 : ${square.getArea()}`)
+        // 클래스 사용
+        const square = new Square(-10) // 길이에 음수를 넣어서 사용
+        console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
+        console.log(`정사각형의 넓이 : ${square.getArea()}`)
     </script>
     ```
     
@@ -79,10 +79,10 @@ tags:
     
     ```jsx
     class 클래스_이름 {
-    	#속성_이름
-    	#메소드_이름 () {
+        #속성_이름
+        #메소드_이름 () {
     
-    	}
+        }
     }
     ```
     
@@ -95,25 +95,25 @@ tags:
     
     ```jsx
     <script>
-    	// 사각형 클래스
-    	class Square {
-    		#length // 이 위치에 해당 속성을 private 속성으로
-    						// 사용하겠다고 미리 선언
+        // 사각형 클래스
+        class Square {
+            #length // 이 위치에 해당 속성을 private 속성으로
+                            // 사용하겠다고 미리 선언
     		
-    		constructor (length){
-    			if (length <= 0) {
-    				throw '길이는 0보다 커야 된다.'
-    			}
-    			this.#length = length
-    		}
-    		getPerimeter(){ return 4 * this.#length }
-    		getArea(){ return this.#length * this.#length }
-    	}
+            constructor (length){
+                if (length <= 0) {
+                    throw '길이는 0보다 커야 된다.'
+                }
+                this.#length = length
+            }
+            getPerimeter(){ return 4 * this.#length }
+            getArea(){ return this.#length * this.#length }
+        }
     
-    	// 클래스 사용
-    	const square = new Square(10)
-    	console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
-    	console.log(`정사각형의 넓이 : ${square.getArea()}`)
+        // 클래스 사용
+        const square = new Square(10)
+        console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
+        console.log(`정사각형의 넓이 : ${square.getArea()}`)
     </script>
     ```
     
@@ -127,60 +127,60 @@ tags:
     
     ```jsx
     <script>
-    	// 사각형 클래스
-    	class Square {
-    		#length // 이 위치에 해당 속성을 private 속성으로
-    						// 사용하겠다고 미리 선언
+        // 사각형 클래스
+        class Square {
+            #length // 이 위치에 해당 속성을 private 속성으로
+                            // 사용하겠다고 미리 선언
     		
-    		constructor (length){
-    			if (length <= 0) {
-    				throw '길이는 0보다 커야 된다.'
-    			}
-    			this.#length = length
-    		}
-    		getPerimeter(){ return 4 * this.#length }
-    		getArea(){ return this.#length * this.#length }
-    	}
+            constructor (length){
+                if (length <= 0) {
+                    throw '길이는 0보다 커야 된다.'
+                }
+                this.#length = length
+            }
+            getPerimeter(){ return 4 * this.#length }
+            getArea(){ return this.#length * this.#length }
+        }
     
-    	// 클래스 사용
-    	const square = new Square(10)
+        // 클래스 사용
+        const square = new Square(10)
     
-    	square.length = -10 // 클래스 내부의 length 속성을 변경 시도
+        square.length = -10 // 클래스 내부의 length 속성을 변경 시도
     
-    	console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
-    	console.log(`정사각형의 넓이 : ${square.getArea()}`)
+        console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
+        console.log(`정사각형의 넓이 : ${square.getArea()}`)
     </script>
     ```
     
     ![Untitled](/images/lang_javascript/study_2/JavaScript_private_속성과_메소드/Untitled%203.png)
     
-- #length 속성을 사용하면 오류가 발생
+- \#length 속성을 사용하면 오류가 발생
 - private 속성 사용 - 3
     
     ```jsx
     <script>
-    	// 사각형 클래스
-    	class Square {
-    		#length // 이 위치에 해당 속성을 private 속성으로
-    						// 사용하겠다고 미리 선언
+        // 사각형 클래스
+        class Square {
+            #length // 이 위치에 해당 속성을 private 속성으로
+                            // 사용하겠다고 미리 선언
     		
-    		constructor (length){
-    			if (length <= 0) {
-    				throw '길이는 0보다 커야 된다.'
-    			}
-    			this.#length = length
-    		}
-    		getPerimeter(){ return 4 * this.#length }
-    		getArea(){ return this.#length * this.#length }
-    	}
+            constructor (length){
+                if (length <= 0) {
+                    throw '길이는 0보다 커야 된다.'
+                }
+                this.#length = length
+            }
+            getPerimeter(){ return 4 * this.#length }
+            getArea(){ return this.#length * this.#length }
+        }
     
-    	// 클래스 사용
-    	const square = new Square(10)
+        // 클래스 사용
+        const square = new Square(10)
     
-    	square.#length = -10 // 클래스 내부의 #length 속성을 변경 시도
+        square.#length = -10 // 클래스 내부의 #length 속성을 변경 시도
     
-    	console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
-    	console.log(`정사각형의 넓이 : ${square.getArea()}`)
+        console.log(`정사각형의 둘레 : ${square.getPerimeter()}`)
+        console.log(`정사각형의 넓이 : ${square.getArea()}`)
     </script>
     ```
     
