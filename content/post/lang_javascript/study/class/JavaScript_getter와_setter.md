@@ -12,8 +12,8 @@ tags:
 ---
 <!--more-->
 
-- **private 속성**을 사용하면 **외부에서는 속성에 아예 접근할 수 없는 문제**가 발생
-- 프레임워크 개발자들은 **상황에 따라서 속성을 읽고 쓸 수 있는 메소드를 만들어 제공**
+- <span style="color: red">**private 속성**</span>을 사용하면 <span style="color: red">**외부에서는 속성에 아예 접근할 수 없는 문제**</span>가 발생
+- 프레임워크 개발자들은 <span style="color: red">**상황에 따라서 속성을 읽고 쓸 수 있는 메소드를 만들어 제공**</span>
 
 ---
 
@@ -55,8 +55,8 @@ tags:
     ![Untitled](/images/lang_javascript/study_2/JavaScript_getter와_setter/Untitled.png)
     
 - 코드에 **getLength() 메소드**와 **setLength() 메소드**가 존재
-- **getter** : get○○( ) 메소드처럼 **속성 값을 확인할 때 사용**하는 메소드
-- **setter** : set○○( ) 메소드처럼 **속성에 값을 지정할 때 사용**하는 메소드
+- <span style="color: red">**getter**</span> : get○○( ) 메소드처럼 **속성 값을 확인할 때 사용**하는 메소드
+- <span style="color: red">**setter**</span> : set○○( ) 메소드처럼 **속성에 값을 지정할 때 사용**하는 메소드
 
 ---
 
