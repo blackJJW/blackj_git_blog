@@ -12,8 +12,8 @@ tags:
 ---
 <!--more-->
 
-- **private 속성**을 사용하면 **외부에서는 속성에 아예 접근할 수 없는 문제**가 발생
-- 프레임워크 개발자들은 **상황에 따라서 속성을 읽고 쓸 수 있는 메소드를 만들어 제공**
+- <mark>**private 속성**</mark>을 사용하면 <mark>**외부에서는 속성에 아예 접근할 수 없는 문제**</mark>가 발생
+- 프레임워크 개발자들은 <mark>**상황에 따라서 속성을 읽고 쓸 수 있는 메소드를 만들어 제공**</mark>
 
 ---
 
@@ -55,12 +55,12 @@ tags:
     ![Untitled](/images/lang_javascript/study_2/JavaScript_getter와_setter/Untitled.png)
     
 - 코드에 **getLength() 메소드**와 **setLength() 메소드**가 존재
-- **getter** : get○○( ) 메소드처럼 **속성 값을 확인할 때 사용**하는 메소드
-- **setter** : set○○( ) 메소드처럼 **속성에 값을 지정할 때 사용**하는 메소드
+- <mark>**getter**</mark> : get○○( ) 메소드처럼 <mark>**속성 값을 확인할 때 사용**</mark>하는 메소드
+- <mark>**setter**</mark> : set○○( ) 메소드처럼 <mark>**속성에 값을 지정할 때 사용**</mark>하는 메소드
 
 ---
 
-- **getter**와 **setter**는 **필요한 경우에만 사용**
+- <mark>**getter**와 **setter**는 **필요한 경우에만 사용**</mark>
     - 만약 사용자가 **값을 읽는 것을 거부하겠다면 getter를 만들지 않아도 된다.**
     - 또한 사용자가 **값을 지정하는 것을 거부하겠다면 setter를 만들지 않아도 된다.**
     - 아예 속성에 접근하지 못하게 **둘 다 막는 것도 가능**
