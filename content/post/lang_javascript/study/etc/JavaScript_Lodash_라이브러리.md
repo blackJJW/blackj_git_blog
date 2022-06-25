@@ -9,6 +9,7 @@ tags:
   - "JavaScript"
   - "JavaScript Library"
   - "HTML"
+  - "Lodash"
 
 
 ---
