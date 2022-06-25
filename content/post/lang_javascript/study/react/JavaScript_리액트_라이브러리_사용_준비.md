@@ -48,7 +48,7 @@ tags:
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        <!-- 리액트 사용 준비 -->>
+        <!-- 리액트 사용 준비 -->
         <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
         <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
         <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
