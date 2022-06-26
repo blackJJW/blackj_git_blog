@@ -114,11 +114,11 @@ tags:
 - 단순한 콘솔 프로그램, 클라이언트용 윈도우 애플리케이션, 서버용 웹 애플리케이션, 모바일용 안드로이드 앱 등 개발 가능
 - 자바는 다양한 운영체제에서 사용할 수 있는 **개발 도구**와 **API**를 묶어 **에디션(Edition) 형태로 정의**
 
-- **Java SE (Standard Edition) - 기본 에디션**
+> **Java SE (Standard Edition) - 기본 에디션**
     - 자바 프로그램들이 공통적으로 사용하는 **자바 가상 기계**(**JVM : Javs Virtual Machine**)를 비롯, 자바 프로그램 개발에 **필수적인 도구**와 라**이브러리 API**를 정의
     - 클라이언트와 서버 프로그램에 상관없이 자바 프로그램을 개발하고 실행하기 위해서는 반드시 **Java SE 구현체인 자바 개발 키트(JDK : Java Development Kit)를 설치**해야 한다.
 
-- **Javs EE (Enterprise Edition) - 서버용 애플리케이션 개발 에디션**
+> **Javs EE (Enterprise Edition) - 서버용 애플리케이션 개발 에디션**
     - **분산 환경**(네트워크, 인터넷)에서 **서버용 애플리케이션을 개발**하기 위한 **도구 및 라이브러리 API**를 정의
     - 서버용 애플리케이션으로는 **Servlet/JSP를 이용한 웹 애플리케이션**, **분산 처리 컴포넌트인 EJB**(**Enterprise Java Bean**)  그리고 **XML 웹 서비스**(**Web Services**) 등이 있다.
 
