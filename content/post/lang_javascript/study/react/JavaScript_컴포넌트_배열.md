@@ -76,33 +76,33 @@ tags:
 ---
 
 - map() 메소드를 **표현식으로 삽입해서 사용**하는 경우
-- 컴포넌트 배열 사용(3)`
+- 컴포넌트 배열 사용(3)
 
-```jsx
-<script type="text/babel">
-	// 애플리케이션 클래스 생성
-	class App extends React.Component {
-		constructor (props) {
-			super(props)
-			this.state = {
-				languages: ['Python', 'JAVA', 'C++', 'JavaScript', 'HTML']
-			}
-		}
-		render () {
-			return <ul> {
-				this.state.languages.map((item) => {
-					return <li>{item}</li>
-				})
-			}</ul>
-		}
-	}
-	// 출력
-	const container = document.getElementById('root')
-	ReactDOM.render(<App />, container)
-</script>
-```
+  ```jsx
+  <script type="text/babel">
+      // 애플리케이션 클래스 생성
+      class App extends React.Component {
+          constructor (props) {
+              super(props)
+              this.state = {
+                  languages: ['Python', 'JAVA', 'C++', 'JavaScript', 'HTML']
+              }
+          }
+          render () {
+              return <ul> {
+                  this.state.languages.map((item) => {
+                      return <li>{item}</li>
+                  })
+              }</ul>
+          }
+      }
+      // 출력
+      const container = document.getElementById('root')
+      ReactDOM.render(<App />, container)
+  </script>
+  ```
 
-![Untitled](/images/lang_javascript/study_3/JavaScript_컴포넌트_배열/Untitled%202.png)
+  ![Untitled](/images/lang_javascript/study_3/JavaScript_컴포넌트_배열/Untitled%202.png)
 
 ---
 
