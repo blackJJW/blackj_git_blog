@@ -1,12 +1,12 @@
 ---
-title: "[Java] JAVA의 개요와 특징"
+title: "[Java] Java의 개요와 특징"
 description: ""
 date: "2022-06-26T20:00:45+09:00"
 thumbnail: ""
 categories:
-  - "JAVA"
+  - "Java"
 tags:
-  - "JAVA"
+  - "Java"
 
 
 ---
